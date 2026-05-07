@@ -47,8 +47,9 @@ https://github.com/4AL24CS058-Darshan/Lab-1---5/blob/main/SubListExample.png
 SwapElements - o/p link
 https://github.com/4AL24CS058-Darshan/Lab-1---5/blob/main/SwapElements.png
 
+6b :- https://github.com/user-attachments/assets/821fef92-e9bc-4d49-a264-c3a29d4fce9b 
 
-
+6b2 :- 
 
 
 
